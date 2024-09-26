@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "URLParser", "URLParser\URLParser.vcxproj", "{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Debug|x64.ActiveCfg = Debug|x64
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Debug|x64.Build.0 = Debug|x64
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Debug|x86.Build.0 = Debug|Win32
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Release|x64.ActiveCfg = Release|x64
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Release|x64.Build.0 = Release|x64
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Release|x86.ActiveCfg = Release|Win32
+		{B110578D-BCE8-4492-BC94-A4E9F2C4F4AA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E36DC6D1-5185-4792-B990-CBC37BFD3608}
+	EndGlobalSection
+EndGlobal
